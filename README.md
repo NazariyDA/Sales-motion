@@ -2,7 +2,7 @@
 Sales motion - is an interactive dashboard in Excel designed for in-depth analysis of sales and key business metrics. It combines data on sales, products, and customers, providing a comprehensive view of the company’s performance. 
 It is ideal for sales managers, analysts, and business executives who aim to quickly evaluate performance, identify trends, and make data-driven decisions.
 
-:pushpin: Data source: [Завантажити Excel-файл](./Sales_Dashboard.xlsx)
+:pushpin: Data source: [Excel Dashboard Dataset](./Excel%20Dashboard_Dataset.xlsx)
 
 ## 🛠 The dashboard includes the following key features:
 * **Key Performance Indicators (KPIs) at the top:** Total Units Sold, Total Sales Revenue, Average Revenue per Customer, and Average Revenue per Product.
