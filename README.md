@@ -8,3 +8,5 @@ It is ideal for sales managers, analysts, and business executives who aim to qui
 * **Customer Analytics:** Top 5 customers generating the highest revenue, revenue contribution by gender, and revenue distribution across age segments.
 * **Regional Analytics:** Regional sales performance and revenue distribution by segment.
 * **Interactivity:** Ability to filter by product categories (Clothing, Electronics, Food, Home Appliances, Sports) and by region (East, North, South, West).
+<img src="Dashboard screenshot.png" alt="Dashboard screenshot" width="1000" height="625"/>
+
