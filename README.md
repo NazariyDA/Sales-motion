@@ -4,6 +4,12 @@ It is ideal for sales managers, analysts, and business executives who aim to qui
 
 :pushpin: Data source: [Excel Dashboard Dataset](./Excel%20Dashboard_Dataset.xlsx)
 
+## 🧱 Used technologies
+* MS Excel
+* Classic Excel formulas (IF, Addition, Subtraction, Division, Multiplication)
+* Power Pivot (data cleaning and transformation) 
+* DAX (SUMX, DIVIDE, Distinctcount, CONCATENATE, FORMAT and others)
+
 ## 🛠 The dashboard includes the following key features:
 * **Key Performance Indicators (KPIs) at the top:** Total Units Sold, Total Sales Revenue, Average Revenue per Customer, and Average Revenue per Product.
 * **Comparative Visualization:** Revenue comparison with the previous year (YoY) for 2023 and 2024, monthly revenue trends, and revenue by weekdays and weekends.
@@ -13,3 +19,4 @@ It is ideal for sales managers, analysts, and business executives who aim to qui
 * **Interactivity:** Ability to filter by product categories (Clothing, Electronics, Food, Home Appliances, Sports) and by region (East, North, South, West).
 <img src="Dashboard screenshot.png" alt="Dashboard screenshot" width="1000" height="625"/>
 
+:pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset.xlsx)
