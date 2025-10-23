@@ -19,4 +19,4 @@ It is ideal for sales managers, analysts, and business executives who aim to qui
 * **Interactivity:** Ability to filter by product categories (Clothing, Electronics, Food, Home Appliances, Sports) and by region (East, North, South, West).
 <img src="Dashboard screenshot.png" alt="Dashboard screenshot" width="1000" height="625"/>
 
-:pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset.xlsx)
+:pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset%20Edit%20Version.xlsx)
