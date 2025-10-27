@@ -5,10 +5,84 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 :pushpin: Data source: [Excel Dashboard Dataset](./Excel%20Dashboard_Dataset.xlsx)
 
 ## 🧱 Used technologies
-* MS Excel
-* Classic Excel formulas (IF, Addition, Subtraction, Division, Multiplication)
-* Power Pivot (data cleaning and transformation) 
-* DAX (SUMX, DIVIDE, Distinctcount, CONCATENATE, FORMAT and others)
+🧩 MS Excel 
+ <details>
+  <summary>Classic Excel formulas (IF, Addition, Subtraction, Division, Multiplication)</summary>
+
+ **Revenue %:**
+
+
+
+      =S7/SUM($S$7:$S$8)
+      
+ **Label:**
+
+  
+    =IF(
+        L5 >= 1000000000;
+        TEXT(L5 / 1000000000; "$0") & "B";
+        IF(
+            L5 >= 1000000;
+            TEXT(L5 / 1000000; "$0") & "M";
+            IF(
+                L5 >= 1000;
+                TEXT(L5 / 1000; "$0") & "K";
+                "0"
+            )
+        )
+    )
+
+
+</details>
+
+🧩 Power Pivot (data cleaning and transformation) 
+ <details>
+  <summary>DAX (SUMX, DIVIDE, Distinctcount, CONCATENATE, FORMAT and others)</summary>
+ 
+   **Total Revenue:**
+
+
+
+      =SUMX(
+        'Transaction';
+        'Transaction'[Quantity] * 'Transaction'[UnitPrice]
+      )
+   
+   **AVG Revenue per customer:**
+
+
+
+     =DIVIDE(
+        [Total Revenue];
+        [# Customer]
+     )
+
+  **Customer:**
+
+
+      =DISTINCTCOUNT(
+        'Transaction'[CustomerID]
+      )
+
+ **Quarter:**
+
+
+
+      =CONCATENATE(
+        "Квартал";
+        INT((MONTH([Date]) + 2) / 3)
+      
+  **Data Format:**
+
+
+
+      =FORMAT(
+        [Date];
+        "MMM"
+      )
+
+</details>
+
 
 ## 🛠 The dashboard includes the following key features:
 * **Key Performance Indicators (KPIs) at the top:** Total Units Sold, Total Sales Revenue, Average Revenue per Customer, and Average Revenue per Product.
@@ -20,3 +94,11 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 <img src="Dashboard screenshot.png" alt="Dashboard screenshot" width="1000" height="625"/>
 
 :pushpin: Interactive Dashboard: [From Data to Insights](./Interactive%20Dashboard.xlsx)
+
+### Thank you for your interest in this project 🏆
+
+
+
+
+
+
