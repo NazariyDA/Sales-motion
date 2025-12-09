@@ -179,6 +179,71 @@ The top 10 customers generate approximately 7% of total revenue, indicating loya
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Implement loyalty programs to retain them.
 
 * ### Top Products and Underperforming Items
+The top 10 products are mostly sports items and home appliances. Underperforming items are basic products with low revenue.
+
+| Top Product       | Revenue   | Underperforming Product | Revenue   |
+|------------------|-----------|------------------------|-----------|
+| Vacuum Cleaner    | 433,638   | Sugar Pack             | 216,362   |
+| Skipping Rope     | 358,365   | Refrigerator           | 228,513   |
+| Running Shoes     | 352,661   | Socks                  | 246,808   |
+| Flour             | 337,960   | Bread                  | 251,269   |
+| Tablet            | 333,200   | Printer                | 251,622   |
+| Tennis Racket     | 330,413   | Smartwatch             | 253,026   |
+| Microwave         | 322,208   | Fan                    | 256,709   |
+| Canned Beans      | 321,552   | LED TV                 | 256,980   |
+| Swimming Goggles  | 320,632   | Dress                  | 258,936   |
+| Yoga Mat          | 315,784   | Blender                | 259,987   |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Top products are highly profitable; underperforming items may require rebranding or discounts.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Remove the weakest items from sale or improve their marketing.
+
+* ###  Monthly Trends (Seasonality)
+Revenue is stable, with peaks in January (likely due to New Year purchases) and November (holiday season)
+
+| Month     | Revenue    |
+|-----------|------------|
+| January   | 1,439,383  |
+| February  | 1,189,456  |
+| March     | 1,240,338  |
+| April     | 1,170,425  |
+| May       | 1,276,021  |
+| June      | 1,038,266  |
+| July      | 1,088,215  |
+| August    | 1,199,136  |
+| September | 1,213,886  |
+| October   | 1,103,064  |
+| November  | 1,351,187  |
+| December  | 1,227,212  |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Low-revenue months (June) are ideal for promotions.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Plan inventory for Q1 and Q4.
+
+* ###  Trends by Day of the Week
+Weekdays generate approximately 71% of revenue, with Wednesday being the peak.
+
+| Day       | Revenue    |
+|-----------|------------|
+| Wednesday | 2,234,903  |
+| Friday    | 2,202,043  |
+| Saturday  | 2,177,201  |
+| Monday    | 2,041,124  |
+| Sunday    | 2,024,299  |
+| Thursday  | 1,957,508  |
+| Tuesday   | 1,899,511  |
+
+| Week Type | Revenue    |
+|-----------|------------|
+| Weekday   | 10,335,089 |
+| Weekend   | 4,201,500  |
+
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Most sales occur on weekdays; weekends are stable.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Run promotions on Tuesday/Thursday to balance revenue.
+
+
 
 
 ### Thank you for your interest in this project 🏆
