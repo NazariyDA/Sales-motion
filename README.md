@@ -134,7 +134,51 @@ West and East generate approximately 70% of revenue, while North is the weakest-
 | South  | 3,612,920  |
 | North  | 806,168    |
 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** West and East are the key markets. North may be underperforming due to demographics or logistics.
 
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Increase marketing efforts in North and South to achieve better balance.
+
+* ### Analysis by Gender and Age Groups
+Women generate nearly twice as much revenue as men. Young and middle-aged adults (19–56 years) are the primary buyers.
+
+| Gender | Revenue    |
+|--------|------------|
+| Female | 9,384,843  |
+| Male   | 5,151,746  |
+
+| Age Group | Revenue    |
+|-----------|------------|
+| 19–37     | 6,091,978  |
+| 38–56     | 5,568,339  |
+| 57–75     | 2,815,487  |
+| 0–18      | 60,785     |
+| 76+       | 0          |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Focus on the female audience and young adults (e.g., sports products for ages 19–37).
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Launch targeted campaigns for older age groups and men.
+
+* ### Top Customers by Revenue
+The top 10 customers generate approximately 7% of total revenue, indicating loyalty without excessive dependence.
+
+| Customer         | Revenue   |
+|-----------------|-----------|
+| James Adams      | 116,129   |
+| Kimberly Cook    | 96,583    |
+| Benjamin Stewart | 92,809    |
+| Kathleen Kelly   | 88,769    |
+| Kevin Gutierrez  | 87,978    |
+| Patricia White   | 86,560    |
+| Larry Williams   | 85,815    |
+| Patrick Ortiz    | 84,789    |
+| Dorothy Torres   | 84,595    |
+| Rachel Cook      | 83,498    |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** These customers are potential VIPs.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Implement loyalty programs to retain them.
+
+* ### Top Products and Underperforming Items
 
 
 ### Thank you for your interest in this project 🏆
