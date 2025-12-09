@@ -91,7 +91,9 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 * **Customer Analytics:** Top 5 customers generating the highest revenue, revenue contribution by gender, and revenue distribution across age segments.
 * **Regional Analytics:** Regional sales performance and revenue distribution by segment.
 * **Interactivity:** Ability to filter by product categories (Clothing, Electronics, Food, Home Appliances, Sports) and by region (East, North, South, West).
-<img src="Dashboard screenshot.png" alt="Dashboard screenshot" width="1000" height="625"/>
+<img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/a58707ac-f491-4794-a258-43cb49dbae5c" />
+
+
 
 :pushpin: Interactive Dashboard: [From Data to Insights](./Interactive%20Dashboard.xlsx)
 
