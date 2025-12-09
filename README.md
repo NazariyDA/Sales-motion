@@ -99,8 +99,57 @@ The data covers 50 products, 300 customers, regions, gender, and age groups.
 :pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset%20Edit%20Version.xlsx)
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
+* ### Annual Trends
+Revenue increased from 2023 to 2024, accompanied by a corresponding rise in the number of sales. The year 2024 demonstrates better performance, with higher revenue per unit.
+| Year | Revenue | Quantity | Revenue Change (YoY) |
+|------|----------|-----------|------------------------|
+| 2023 | 6,774,586 | 13,494 | – |
+| 2024 | 7,762,003 | 15,157 | +15% |
+
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Steady growth, possibly driven by product range expansion or marketing efforts.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Forecast further growth, but monitor expenses to maintain profitability.
+
+* ### Analysis by Categories
+The “Sports” category is the revenue leader, with other categories showing similar but slightly lower performance. All categories are profitable, but focusing on “Sports” could drive faster growth.
+| Category        | Revenue    |
+|-----------------|------------|
+| Sports          | 3,104,273  |
+| Home Appliances | 2,919,114  |
+| Groceries       | 2,888,747  |
+| Electronics     | 2,821,121  |
+| Clothing        | 2,803,334  |
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Sports (e.g., Skipping Rope, Running Shoes) and Home Appliances (Vacuum Cleaner) generate high revenue. Groceries and Electronics remain stable but may require promotional activities.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Expand the product range in the top-performing categories.
+
+* ### Sales by Region
+West and East generate approximately 70% of revenue, while North is the weakest-performing region.
+| Region | Revenue    |
+|--------|------------|
+| West   | 5,230,417  |
+| East   | 4,887,084  |
+| South  | 3,612,920  |
+| North  | 806,168    |
+
+
+
 
 ### Thank you for your interest in this project 🏆
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
