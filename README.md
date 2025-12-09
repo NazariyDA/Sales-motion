@@ -103,8 +103,8 @@ The data covers 50 products, 300 customers, regions, gender, and age groups.
 Revenue increased from 2023 to 2024, accompanied by a corresponding rise in the number of sales. The year 2024 demonstrates better performance, with higher revenue per unit.
 | Year | Revenue | Quantity | Revenue Change (YoY) |
 |------|----------|-----------|------------------------|
-| 2023 | 6,774,586 | 13,494 | – |
-| 2024 | 7,762,003 | 15,157 | +15% |
+| 2023 | $ 6,774,586 | 13,494 | – |
+| 2024 | $ 7,762,003 | 15,157 | +15% |
 
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Steady growth, possibly driven by product range expansion or marketing efforts.
@@ -115,11 +115,11 @@ Revenue increased from 2023 to 2024, accompanied by a corresponding rise in the 
 The “Sports” category is the revenue leader, with other categories showing similar but slightly lower performance. All categories are profitable, but focusing on “Sports” could drive faster growth.
 | Category        | Revenue    |
 |-----------------|------------|
-| Sports          | 3,104,273  |
-| Home Appliances | 2,919,114  |
-| Groceries       | 2,888,747  |
-| Electronics     | 2,821,121  |
-| Clothing        | 2,803,334  |
+| Sports          | $ 3,104,273  |
+| Home Appliances | $ 2,919,114  |
+| Groceries       | $ 2,888,747  |
+| Electronics     | $ 2,821,121  |
+| Clothing        | $ 2,803,334  |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Sports (e.g., Skipping Rope, Running Shoes) and Home Appliances (Vacuum Cleaner) generate high revenue. Groceries and Electronics remain stable but may require promotional activities.
 
@@ -129,10 +129,10 @@ The “Sports” category is the revenue leader, with other categories showing s
 West and East generate approximately 70% of revenue, while North is the weakest-performing region.
 | Region | Revenue    |
 |--------|------------|
-| West   | 5,230,417  |
-| East   | 4,887,084  |
-| South  | 3,612,920  |
-| North  | 806,168    |
+| West   | $ 5,230,417  |
+| East   | $ 4,887,084  |
+| South  | $ 3,612,920  |
+| North  | $ 806,168    |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** West and East are the key markets. North may be underperforming due to demographics or logistics.
 
@@ -143,16 +143,16 @@ Women generate nearly twice as much revenue as men. Young and middle-aged adults
 
 | Gender | Revenue    |
 |--------|------------|
-| Female | 9,384,843  |
-| Male   | 5,151,746  |
+| Female | $ 9,384,843  |
+| Male   | $ 5,151,746  |
 
 | Age Group | Revenue    |
 |-----------|------------|
-| 19–37     | 6,091,978  |
-| 38–56     | 5,568,339  |
-| 57–75     | 2,815,487  |
-| 0–18      | 60,785     |
-| 76+       | 0          |
+| 19–37     | $ 6,091,978  |
+| 38–56     | $ 5,568,339  |
+| 57–75     | $ 2,815,487  |
+| 0–18      | $ 60,785     |
+| 76+       | $ 0          |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Focus on the female audience and young adults (e.g., sports products for ages 19–37).
 
@@ -163,11 +163,11 @@ The top 5 clients generate a total revenue of 482,268, which accounts for 3.32% 
 
 | Customer         | Revenue   |
 |-----------------|-----------|
-| James Adams      | 116,129   |
-| Kimberly Cook    | 96,583    |
-| Benjamin Stewart | 92,809    |
-| Kathleen Kelly   | 88,769    |
-| Kevin Gutierrez  | 87,978    |
+| James Adams      | $ 116,129   |
+| Kimberly Cook    | $ 96,583    |
+| Benjamin Stewart | $ 92,809    |
+| Kathleen Kelly   | $ 88,769    |
+| Kevin Gutierrez  | $ 87,978    |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** These clients are likely the most loyal or have the largest orders.
 
@@ -178,16 +178,16 @@ The top 10 products are mostly sports items and home appliances. Underperforming
 
 | Top Product       | Revenue   | Underperforming Product | Revenue   |
 |------------------|-----------|------------------------|-----------|
-| Vacuum Cleaner    | 433,638   | Sugar Pack             | 216,362   |
-| Skipping Rope     | 358,365   | Refrigerator           | 228,513   |
-| Running Shoes     | 352,661   | Socks                  | 246,808   |
-| Flour             | 337,960   | Bread                  | 251,269   |
-| Tablet            | 333,200   | Printer                | 251,622   |
-| Tennis Racket     | 330,413   | Smartwatch             | 253,026   |
-| Microwave         | 322,208   | Fan                    | 256,709   |
-| Canned Beans      | 321,552   | LED TV                 | 256,980   |
-| Swimming Goggles  | 320,632   | Dress                  | 258,936   |
-| Yoga Mat          | 315,784   | Blender                | 259,987   |
+| Vacuum Cleaner    | $ 433,638   | Sugar Pack             | $ 216,362   |
+| Skipping Rope     | $ 358,365   | Refrigerator           | $ 228,513   |
+| Running Shoes     | $ 352,661   | Socks                  | $ 246,808   |
+| Flour             | $ 337,960   | Bread                  | $ 251,269   |
+| Tablet            | $ 333,200   | Printer                | $ 251,622   |
+| Tennis Racket     | $ 330,413   | Smartwatch             | $ 253,026   |
+| Microwave         | $ 322,208   | Fan                    | $ 256,709   |
+| Canned Beans      | $ 321,552   | LED TV                 | $ 256,980   |
+| Swimming Goggles  | $ 320,632   | Dress                  | $ 258,936   |
+| Yoga Mat          | $ 315,784   | Blender                | $ 259,987   |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Top products are highly profitable; underperforming items may require rebranding or discounts.
 
@@ -198,18 +198,18 @@ Revenue is stable, with peaks in January (likely due to New Year purchases) and 
 
 | Month     | Revenue    |
 |-----------|------------|
-| January   | 1,439,383  |
-| February  | 1,189,456  |
-| March     | 1,240,338  |
-| April     | 1,170,425  |
-| May       | 1,276,021  |
-| June      | 1,038,266  |
-| July      | 1,088,215  |
-| August    | 1,199,136  |
-| September | 1,213,886  |
-| October   | 1,103,064  |
-| November  | 1,351,187  |
-| December  | 1,227,212  |
+| January   | $ 1,439,383  |
+| February  | $ 1,189,456  |
+| March     | $ 1,240,338  |
+| April     | $ 1,170,425  |
+| May       | $ 1,276,021  |
+| June      | $ 1,038,266  |
+| July      | $ 1,088,215  |
+| August    | $ 1,199,136  |
+| September | $ 1,213,886  |
+| October   | $ 1,103,064  |
+| November  | $ 1,351,187  |
+| December  | $ 1,227,212  |
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Low-revenue months (June) are ideal for promotions.
 
@@ -220,18 +220,18 @@ Weekdays generate approximately 71% of revenue, with Wednesday being the peak.
 
 | Day       | Revenue    |
 |-----------|------------|
-| Wednesday | 2,234,903  |
-| Friday    | 2,202,043  |
-| Saturday  | 2,177,201  |
-| Monday    | 2,041,124  |
-| Sunday    | 2,024,299  |
-| Thursday  | 1,957,508  |
-| Tuesday   | 1,899,511  |
+| Wednesday | $ 2,234,903  |
+| Friday    | $ 2,202,043  |
+| Saturday  | $ 2,177,201  |
+| Monday    | $ 2,041,124  |
+| Sunday    | $ 2,024,299  |
+| Thursday  | $ 1,957,508  |
+| Tuesday   | $ 1,899,511  |
 
 | Week Type | Revenue    |
 |-----------|------------|
-| Weekday   | 10,335,089 |
-| Weekend   | 4,201,500  |
+| Weekday   | $ 10,335,089 |
+| Weekend   | $ 4,201,500  |
 
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Most sales occur on weekdays; weekends are stable.
