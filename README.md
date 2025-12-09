@@ -159,7 +159,7 @@ Women generate nearly twice as much revenue as men. Young and middle-aged adults
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Launch targeted campaigns for older age groups and men.
 
 * ### Top Customers by Revenue
-The top 10 customers generate approximately 7% of total revenue, indicating loyalty without excessive dependence.
+The top 5 clients generate a total revenue of 482,268, which accounts for 3.32% of the total revenue (14,536,589)
 
 | Customer         | Revenue   |
 |-----------------|-----------|
@@ -168,15 +168,10 @@ The top 10 customers generate approximately 7% of total revenue, indicating loya
 | Benjamin Stewart | 92,809    |
 | Kathleen Kelly   | 88,769    |
 | Kevin Gutierrez  | 87,978    |
-| Patricia White   | 86,560    |
-| Larry Williams   | 85,815    |
-| Patrick Ortiz    | 84,789    |
-| Dorothy Torres   | 84,595    |
-| Rachel Cook      | 83,498    |
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** These customers are potential VIPs.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** These clients are likely the most loyal or have the largest orders.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Implement loyalty programs to retain them.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Develop loyalty programs (discounts, personalized offers) to retain them, while continuing to diversify the client base to reduce risks (for example, by attracting new clients through marketing in regions with low sales)
 
 * ### Top Products and Underperforming Items
 The top 10 products are mostly sports items and home appliances. Underperforming items are basic products with low revenue.
