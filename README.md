@@ -83,7 +83,10 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 
 </details>
 
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
+The database contains **5,000** sales records for the years **2023–2024**, with a total revenue of **$ 14,536,589** and a total of **28,651** items sold. 
 
+The data covers 50 products, 300 customers, regions, gender, and age groups.
 ## 🛠 The dashboard includes the following key features:
 * **Key Performance Indicators (KPIs) at the top:** Total Units Sold, Total Sales Revenue, Average Revenue per Customer, and Average Revenue per Product.
 * **Comparative Visualization:** Revenue comparison with the previous year (YoY) for 2023 and 2024, monthly revenue trends, and revenue by weekdays and weekends.
@@ -93,9 +96,9 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 * **Interactivity:** Ability to filter by product categories (Clothing, Electronics, Food, Home Appliances, Sports) and by region (East, North, South, West).
 <img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/a58707ac-f491-4794-a258-43cb49dbae5c" />
 
-
-
 :pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset%20Edit%20Version.xlsx)
+
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
 
 ### Thank you for your interest in this project 🏆
 
