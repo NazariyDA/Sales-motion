@@ -95,7 +95,7 @@ It is ideal for **sales managers**, **analysts**, and **business executives** wh
 
 
 
-:pushpin: Interactive Dashboard: [From Data to Insights](./Interactive%20Dashboard.xlsx)
+:pushpin: Interactive Dashboard: [From Data to Insights](./Excel%20Dashboard_Dataset%20Edit%20Version.xlsx)
 
 ### Thank you for your interest in this project 🏆
 
